@@ -15,6 +15,7 @@ class ViewController: UIViewController {
 		diceImageView2.image = UIImage(imageLiteralResourceName: "DOne.png")
 		diceImageView1.image = UIImage(imageLiteralResourceName: "DOne.png")
 		// Do any additional setup after loading the view.
+		//lola
 	}
 
 	@IBAction func ButtonP(_ sender: UIButton) {
